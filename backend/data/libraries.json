@@ -1,0 +1,807 @@
+{
+  "087d12cf-6c5d-4201-b4a4-d2693770be9f": {
+    "id": "087d12cf-6c5d-4201-b4a4-d2693770be9f",
+    "name": "Wizzards",
+    "theme": "wiz",
+    "symbols": [
+      {
+        "id": "8ae73162-c370-41fb-a40f-d5ae74ab26e0",
+        "label": "Harry Potter",
+        "url": "/assets/ai_d227ee122b.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "5316ee5a-eed6-4f5c-a613-92b5be6a79b7",
+        "label": "Ron Weasley",
+        "url": "/assets/ai_9c353a8a3d.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "e7ed77f3-52d3-4a4e-8b70-1ff31dc21307",
+        "label": "Hermione Granger",
+        "url": "/assets/ai_9a7e0257c9.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "07332479-a702-4b24-9d0a-054fcdc19e55",
+        "label": "Albus Dumbledore",
+        "url": "/assets/ai_d7d9f6f986.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "edc27316-75e7-4c23-9a66-59122a42e9ac",
+        "label": "Rubeus Hagrid",
+        "url": "/assets/ai_fd10c51889.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "2d593875-ddb8-44af-86b0-474e9d1228ad",
+        "label": "Minerva McGonagall",
+        "url": "/assets/ai_43d446beb9.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "b41fe09c-0237-4588-b2a2-ba2864ec074f",
+        "label": "Severus Snape",
+        "url": "/assets/ai_6e25b760a9.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "d39a8bab-4e3c-4732-992c-79c4aa131901",
+        "label": "Luna Lovegood",
+        "url": "/assets/ai_b58da87095.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "7131f12a-ade8-4dd4-a3a4-deb9cc96218b",
+        "label": "Ginny Weasley",
+        "url": "/assets/ai_fe7b13ab64.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "9b45e588-189b-4039-9fbd-c4784cad6a37",
+        "label": "Dobby",
+        "url": "/assets/ai_b973ac8e42.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "db16b3ec-9e86-4d8d-9a2c-5f328a8a8bb2",
+        "label": "Hedwig",
+        "url": "/assets/ai_2082d136cc.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "0773d623-fee3-413f-b327-cc9fca1c2e2a",
+        "label": "Fawkes",
+        "url": "/assets/ai_2693d59789.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "deb13055-593d-4fc2-a6f6-3b347e626fb5",
+        "label": "Crookshanks",
+        "url": "/assets/ai_fc39799daf.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "5ce15df1-d93e-4427-8110-748b841457ec",
+        "label": "Scabbers",
+        "url": "/assets/ai_50c77b2afa.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "525b279d-339b-46e6-baa3-3d369dd0c98c",
+        "label": "Pigwidgeon",
+        "url": "/assets/ai_c8d37087a4.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "c311b91e-0bd7-4610-81a7-80914dc4ef0b",
+        "label": "Fluffy",
+        "url": "/assets/ai_5e739e1c46.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "cdb7f38a-7b8c-487a-af27-fa47934dd5bf",
+        "label": "Buckbeak",
+        "url": "/assets/ai_0ed0b5cd83.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "b2677321-b49d-410d-abe4-99bd6548248d",
+        "label": "Thestral",
+        "url": "/assets/ai_ff15384394.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "32f5fb8f-7e44-45f5-a8e2-8de16f617e8f",
+        "label": "Norbert Dragon",
+        "url": "/assets/ai_a29f9f628f.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "ae620293-a9c6-4974-9508-5f21ca116b20",
+        "label": "Sorting Hat",
+        "url": "/assets/ai_517f4affe9.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "09abf987-cf98-4853-9c87-8f2c4a41f89e",
+        "label": "Golden Snitch",
+        "url": "/assets/ai_f35ac695df.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "095dd7bf-72e3-4f86-9521-5b3cfa77033d",
+        "label": "Nimbus 2000",
+        "url": "/assets/ai_ff29444d9a.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "905f134a-c040-48af-9ddd-2c22e39fefaa",
+        "label": "Firebolt",
+        "url": "/assets/ai_988d2bc03b.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "d3b1add6-b562-4b2f-a595-e31ce28144c6",
+        "label": "Marauder's Map",
+        "url": "/assets/ai_04a85d352f.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "4f60af60-fc41-4735-8838-b3fa614ea34c",
+        "label": "Time-Turner",
+        "url": "/assets/ai_67e1b0fead.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "49b72b32-64e2-4fcd-aff2-303a277e66f0",
+        "label": "Elder Wand",
+        "url": "/assets/ai_03ecea8f32.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "22e82306-7051-434a-bef0-018b58601a88",
+        "label": "Resurrection Stone",
+        "url": "/assets/ai_43f429e102.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "56e4e83a-ddd1-47be-abea-1d4f7063b268",
+        "label": "Invisibility Cloak",
+        "url": "/assets/ai_00de560d83.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "fcb66386-1f3f-41fb-8ae6-874b39f8db57",
+        "label": "Philosopher's Stone",
+        "url": "/assets/ai_29a6bfc88c.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "87b971b1-69de-455a-9185-fb9cc405d217",
+        "label": "Sword of Gryffindor",
+        "url": "/assets/ai_583a1ec9ae.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "8a904bc9-2c96-41dd-8470-275c20e5bbc5",
+        "label": "Tom Riddle's Diary",
+        "url": "/assets/ai_480cce37c9.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "05b65b3c-1afa-4229-83d2-3c942f96c5cc",
+        "label": "Salazar's Locket",
+        "url": "/assets/ai_1a61249011.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "1b596cf3-95bd-4d8d-9456-e6254e58b1f8",
+        "label": "Helga's Cup",
+        "url": "/assets/ai_3d71049279.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "7bf8dede-c69a-4411-9892-bb2c895bfa73",
+        "label": "Ravenclaw Diadem",
+        "url": "/assets/ai_e2a251e99a.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "3a735510-27b1-4f28-97fb-802c05891082",
+        "label": "Wand",
+        "url": "/assets/ai_e1dbd27d13.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "2f6f4b65-8bdf-4435-9ff6-ca3227c1ff49",
+        "label": "Potion Bottle",
+        "url": "/assets/ai_577c6cc9eb.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "ee33e2db-4292-41e6-9a4a-b0c0f78e0d96",
+        "label": "Cauldron",
+        "url": "/assets/ai_b0858b13bd.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "d18ebc92-f532-4a05-88c6-5326ed8d7136",
+        "label": "Hogwarts Express",
+        "url": "/assets/ai_a81b0526ed.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "d3114eeb-04fe-465d-bcf7-26ecdb9537a4",
+        "label": "Hogwarts Crest",
+        "url": "/assets/ai_6aea33dd5a.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "cc088c98-7acd-487e-aaa8-3b0813e86092",
+        "label": "Gryffindor Crest",
+        "url": "/assets/ai_8cc2210559.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "5ebd9748-8314-4e8f-85f1-012961691ac8",
+        "label": "Slytherin Crest",
+        "url": "/assets/ai_e59d72c2d6.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "a752cc9c-6edd-4872-8ef6-a709394fd5bb",
+        "label": "Hufflepuff Crest",
+        "url": "/assets/ai_4e77e9aac1.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "cb8f4728-49b5-473f-bb23-79402fb1322d",
+        "label": "Ravenclaw Crest",
+        "url": "/assets/ai_486c852d39.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "bcf31488-4eda-4323-95f6-29d8a5b07420",
+        "label": "Wizard Hat",
+        "url": "/assets/ai_d2d032750f.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "54102384-aacf-44d5-9818-70fbf84409e8",
+        "label": "House Scarf",
+        "url": "/assets/ai_0ac4efc619.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "073d8d9a-b3c6-4a1e-b11e-d9aabd58cb84",
+        "label": "Chocolate Frog",
+        "url": "/assets/ai_468dd1a625.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "deebdda4-7041-4dfb-a944-7afd7afb5bcd",
+        "label": "Bertie Bott's Beans",
+        "url": "/assets/ai_547e1af7e1.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "faebd558-082b-47b6-b0df-734c96e2f7c4",
+        "label": "Pumpkin Juice",
+        "url": "/assets/ai_b4608cd3a3.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "108a209e-ed07-4371-93d1-8c0865cf6d45",
+        "label": "Daily Prophet",
+        "url": "/assets/ai_027973c2fa.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "d6e33e75-ce69-4ef8-8a4c-37c06b2e5ffd",
+        "label": "Howler",
+        "url": "/assets/ai_22ca354aae.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "ab6a360c-6472-48ed-b8f4-bad6ba917b72",
+        "label": "Remembrall",
+        "url": "/assets/ai_41718975bf.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "d6a416cd-1484-43c5-9f4d-c00c8f983dbb",
+        "label": "Monster Book",
+        "url": "/assets/ai_7e610d7104.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "7534fb7f-7eb9-442b-bb96-e5d2338daf0c",
+        "label": "Flying Key",
+        "url": "/assets/ai_932f9bd2ef.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "c46d2db6-143a-47ed-b942-b383a2f5376c",
+        "label": "Basilisk Fang",
+        "url": "/assets/ai_45fbc3b47a.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "5b9e91b8-f6c9-4760-8bc7-b8bf1cf62bb3",
+        "label": "Quidditch Hoops",
+        "url": "/assets/ai_f023cebb43.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "03620a6e-d7f6-4275-9114-df4045348e18",
+        "label": "Quidditch Quaffle",
+        "url": "/assets/ai_45b0feb011.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "fa12f8ad-60ee-49e3-8526-c7264b49919e",
+        "label": "Quidditch Bludger",
+        "url": "/assets/ai_6077232e11.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      }
+    ]
+  },
+  "1000f623-361f-42d5-a715-e4a2cd31d137": {
+    "id": "1000f623-361f-42d5-a715-e4a2cd31d137",
+    "name": "Harry Potter",
+    "theme": "harry",
+    "symbols": [
+      {
+        "id": "515a1d08-5e2d-4a93-bce0-6b1e5fc19df3",
+        "label": "Harry Potter",
+        "url": "/assets/ai_7fb6cae20d.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "780819a0-f000-497a-ab69-2ffe2fdf57fe",
+        "label": "Hermione Granger",
+        "url": "/assets/ai_7c2b574c8d.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "b356edb2-dcf7-4093-9180-d7d1fe93e046",
+        "label": "Ron Weasley",
+        "url": "/assets/ai_db8780ff03.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "15ea2bcc-32a0-48b5-9bd1-61c26dfc947b",
+        "label": "Albus Dumbledore",
+        "url": "/assets/ai_ae83cc0a3f.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "7c70107e-bdab-499c-ae3b-9e7c8a1bb05d",
+        "label": "Rubeus Hagrid",
+        "url": "/assets/ai_27192e0902.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "2e7909f4-2172-4a21-8f1b-e5b36d1921f1",
+        "label": "Luna Lovegood",
+        "url": "/assets/ai_4669ce288f.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "ff34ff17-ef7a-4c95-8557-ffbd641eadbe",
+        "label": "Dobby the Elf",
+        "url": "/assets/ai_d069ca9d97.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "a6db76e8-daba-4793-a403-1bd2f54de333",
+        "label": "Harry Potter",
+        "url": "https://ik.imagekit.io/hpapi/harry.jpg",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      }
+    ]
+  },
+  "99ec42d8-1f4b-41ef-8063-bbe48a20fe18": {
+    "id": "99ec42d8-1f4b-41ef-8063-bbe48a20fe18",
+    "name": "Wednesday",
+    "theme": "netflix",
+    "symbols": [
+      {
+        "id": "5e20955d-e227-4e42-b5b1-db6824bf09bb",
+        "label": "Thing Hand",
+        "url": "/assets/ai_45ec88d932.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "e98363d3-79b1-4a67-a905-5cc822aeeab8",
+        "label": "Black Cat",
+        "url": "/assets/ai_c6f0655b2b.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "c2708889-24c9-4c62-a5d3-0b679ddbcacb",
+        "label": "Full Moon",
+        "url": "/assets/ai_eeadc8f21e.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "e43e028e-0a2f-4049-833f-1b9addea29ef",
+        "label": "Spiderweb",
+        "url": "/assets/ai_a976ea7c9b.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "aebd02ed-b982-4f1c-9696-7d54f7f372f8",
+        "label": "Raven Bird",
+        "url": "/assets/ai_fb641fb039.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "7914eb01-7b57-4c30-9c9c-d6ac014383ef",
+        "label": "Mansion Silhouette",
+        "url": "/assets/ai_61838e0908.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "efed36e1-915d-462e-8d32-e53441640fb4",
+        "label": "Enchanted Rose",
+        "url": "/assets/ai_4e83a9e58d.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "ad8b328e-dd47-4b32-b61a-ee03b7097615",
+        "label": "Tarot Card",
+        "url": "/assets/ai_0b1675d313.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "7a14b2b7-970a-451a-990b-d1c4d40444f5",
+        "label": "Potion Bottle",
+        "url": "/assets/ai_b4586b52fb.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "ccc35fc7-404a-4809-8000-82a68ab3eda4",
+        "label": "Cello Bow",
+        "url": "/assets/ai_9ffb9fadba.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "789533a0-ece9-4b93-b908-42e848fd02d5",
+        "label": "Typewriter Keys",
+        "url": "/assets/ai_3d408e6657.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "65d06d9f-a744-4941-bf35-756cd53f2076",
+        "label": "Striped Socks",
+        "url": "/assets/ai_5c5bc6c06f.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "7bae4377-1e03-4c4f-be24-27338ce00ecf",
+        "label": "Dark Dress",
+        "url": "/assets/ai_e77194e388.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "caacf139-6e87-4ff8-8313-9f6122cbc7bf",
+        "label": "Braided Hair",
+        "url": "/assets/ai_fb781045bb.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "ff6a5da1-4066-44c4-8dd4-987ce2635893",
+        "label": "Skull Symbol",
+        "url": "/assets/ai_e246941051.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "1e47e745-43ed-4325-b157-92baf328cd2a",
+        "label": "Crystal Ball",
+        "url": "/assets/ai_729b44c039.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "a945d9bd-6d3a-4030-9475-5ad3b61ddbbe",
+        "label": "Cauldron Pot",
+        "url": "/assets/ai_eb729835dd.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "cc60d263-7af5-4a9f-bd90-c11ef9b731b4",
+        "label": "Spell Book",
+        "url": "/assets/ai_a2a61851d4.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "72f90d70-f491-4c5c-9d68-1e5875448914",
+        "label": "Bat Outline",
+        "url": "/assets/ai_d0e130e06f.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "a4cdfafa-48f6-4471-8f7b-7bb3e992a892",
+        "label": "Grave Stone",
+        "url": "/assets/ai_7e60d14f3f.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "eb5b6ff8-3f1b-4846-8619-b7328865db8d",
+        "label": "Bare Tree",
+        "url": "/assets/ai_1033438ed1.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "8c6c26c4-1d15-4a86-9ba2-b2b42e571c98",
+        "label": "Cobwebbed Window",
+        "url": "/assets/ai_9a189e1d8b.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "e59826d6-31b6-4856-a053-e2d24c6cb40e",
+        "label": "Gothic Arch",
+        "url": "/assets/ai_5dbce055d8.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "f3964390-ddad-4f1e-96a6-431f62539e4d",
+        "label": "Keyhole Shape",
+        "url": "/assets/ai_911d81377b.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "7515306b-37e2-44af-be57-4bc5add6c5da",
+        "label": "Hourglass Sand",
+        "url": "/assets/ai_16e36302a8.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "b90d1edd-8185-4c3f-9e2f-75e9713dd0c4",
+        "label": "Moon Phases",
+        "url": "/assets/ai_1e01d6f394.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "11b10ad7-89d5-4cd8-879a-91882f866c8b",
+        "label": "Star Cluster",
+        "url": "/assets/ai_31c8196618.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "b4723504-564d-4cab-a17e-4202f79bc178",
+        "label": "Quill Pen",
+        "url": "/assets/ai_1881afefc1.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "4cec1214-fe36-4cf1-a9bd-fe68793841d7",
+        "label": "Inkwell Bottle",
+        "url": "/assets/ai_71a9680b69.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "7f136858-5ec4-4bb1-a97d-0192af838b20",
+        "label": "Dusty Scroll",
+        "url": "/assets/ai_e48e1ff35f.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "91583f43-08a7-4b42-b30b-a26b94bcb9e7",
+        "label": "Candle Holder",
+        "url": "/assets/ai_336d1e6d01.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "34b86d8e-a699-4687-95bd-8673711e62f1",
+        "label": "Ghostly Orb",
+        "url": "/assets/ai_db03caaaf6.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      },
+      {
+        "id": "8e18fbee-87eb-42dc-9bff-54baff4ffd1b",
+        "label": "Amulet Charm",
+        "url": "/assets/ai_dcff398c56.png",
+        "thumbnail_url": null,
+        "cartoonized_url": null,
+        "cartoonized": false
+      }
+    ]
+  }
+}

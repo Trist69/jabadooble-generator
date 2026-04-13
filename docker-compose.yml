@@ -1,0 +1,33 @@
+version: '3.9'
+
+networks:
+  dobble-net:
+    driver: bridge
+
+services:
+  backend:
+    build: ./backend
+    container_name: dobble-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app
+    environment:
+      - PYTHONPATH=/app
+    networks:
+      - dobble-net
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    container_name: dobble-frontend
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    depends_on:
+      - backend
+    networks:
+      - dobble-net
+    restart: unless-stopped

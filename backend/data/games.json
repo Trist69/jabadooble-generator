@@ -1,0 +1,3487 @@
+{
+  "74e8e216-e398-42b0-8133-edb4edd0b9c6": {
+    "id": "74e8e216-e398-42b0-8133-edb4edd0b9c6",
+    "library_id": "087d12cf-6c5d-4201-b4a4-d2693770be9f",
+    "order": 7,
+    "total_cards": 57,
+    "cards": [
+      {
+        "index": 0,
+        "placements": [
+          {
+            "label": "Harry Potter",
+            "url": "/assets/ai_d227ee122b.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Ron Weasley",
+            "url": "/assets/ai_9c353a8a3d.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hermione Granger",
+            "url": "/assets/ai_9a7e0257c9.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Albus Dumbledore",
+            "url": "/assets/ai_d7d9f6f986.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Rubeus Hagrid",
+            "url": "/assets/ai_fd10c51889.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Minerva McGonagall",
+            "url": "/assets/ai_43d446beb9.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Severus Snape",
+            "url": "/assets/ai_6e25b760a9.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Luna Lovegood",
+            "url": "/assets/ai_b58da87095.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "placements": [
+          {
+            "label": "Harry Potter",
+            "url": "/assets/ai_d227ee122b.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Ginny Weasley",
+            "url": "/assets/ai_fe7b13ab64.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Dobby",
+            "url": "/assets/ai_b973ac8e42.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hedwig",
+            "url": "/assets/ai_2082d136cc.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Fawkes",
+            "url": "/assets/ai_2693d59789.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Crookshanks",
+            "url": "/assets/ai_fc39799daf.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Scabbers",
+            "url": "/assets/ai_50c77b2afa.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Pigwidgeon",
+            "url": "/assets/ai_c8d37087a4.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "placements": [
+          {
+            "label": "Harry Potter",
+            "url": "/assets/ai_d227ee122b.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Fluffy",
+            "url": "/assets/ai_5e739e1c46.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Buckbeak",
+            "url": "/assets/ai_0ed0b5cd83.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Thestral",
+            "url": "/assets/ai_ff15384394.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Norbert Dragon",
+            "url": "/assets/ai_a29f9f628f.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Sorting Hat",
+            "url": "/assets/ai_517f4affe9.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Golden Snitch",
+            "url": "/assets/ai_f35ac695df.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Nimbus 2000",
+            "url": "/assets/ai_ff29444d9a.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "placements": [
+          {
+            "label": "Harry Potter",
+            "url": "/assets/ai_d227ee122b.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Firebolt",
+            "url": "/assets/ai_988d2bc03b.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Marauder's Map",
+            "url": "/assets/ai_04a85d352f.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Time-Turner",
+            "url": "/assets/ai_67e1b0fead.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Elder Wand",
+            "url": "/assets/ai_03ecea8f32.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Resurrection Stone",
+            "url": "/assets/ai_43f429e102.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Invisibility Cloak",
+            "url": "/assets/ai_00de560d83.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Philosopher's Stone",
+            "url": "/assets/ai_29a6bfc88c.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "placements": [
+          {
+            "label": "Harry Potter",
+            "url": "/assets/ai_d227ee122b.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Sword of Gryffindor",
+            "url": "/assets/ai_583a1ec9ae.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Tom Riddle's Diary",
+            "url": "/assets/ai_480cce37c9.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Salazar's Locket",
+            "url": "/assets/ai_1a61249011.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Helga's Cup",
+            "url": "/assets/ai_3d71049279.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Ravenclaw Diadem",
+            "url": "/assets/ai_e2a251e99a.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Wand",
+            "url": "/assets/ai_e1dbd27d13.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Potion Bottle",
+            "url": "/assets/ai_577c6cc9eb.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "placements": [
+          {
+            "label": "Harry Potter",
+            "url": "/assets/ai_d227ee122b.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Cauldron",
+            "url": "/assets/ai_b0858b13bd.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hogwarts Express",
+            "url": "/assets/ai_a81b0526ed.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hogwarts Crest",
+            "url": "/assets/ai_6aea33dd5a.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Gryffindor Crest",
+            "url": "/assets/ai_8cc2210559.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Slytherin Crest",
+            "url": "/assets/ai_e59d72c2d6.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hufflepuff Crest",
+            "url": "/assets/ai_4e77e9aac1.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Ravenclaw Crest",
+            "url": "/assets/ai_486c852d39.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "placements": [
+          {
+            "label": "Harry Potter",
+            "url": "/assets/ai_d227ee122b.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Wizard Hat",
+            "url": "/assets/ai_d2d032750f.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "House Scarf",
+            "url": "/assets/ai_0ac4efc619.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Chocolate Frog",
+            "url": "/assets/ai_468dd1a625.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Bertie Bott's Beans",
+            "url": "/assets/ai_547e1af7e1.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Pumpkin Juice",
+            "url": "/assets/ai_b4608cd3a3.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Daily Prophet",
+            "url": "/assets/ai_027973c2fa.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Howler",
+            "url": "/assets/ai_22ca354aae.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "placements": [
+          {
+            "label": "Harry Potter",
+            "url": "/assets/ai_d227ee122b.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Remembrall",
+            "url": "/assets/ai_41718975bf.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Monster Book",
+            "url": "/assets/ai_7e610d7104.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Flying Key",
+            "url": "/assets/ai_932f9bd2ef.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Basilisk Fang",
+            "url": "/assets/ai_45fbc3b47a.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Hoops",
+            "url": "/assets/ai_f023cebb43.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Quaffle",
+            "url": "/assets/ai_45b0feb011.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Bludger",
+            "url": "/assets/ai_6077232e11.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "placements": [
+          {
+            "label": "Ron Weasley",
+            "url": "/assets/ai_9c353a8a3d.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Ginny Weasley",
+            "url": "/assets/ai_fe7b13ab64.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Fluffy",
+            "url": "/assets/ai_5e739e1c46.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Firebolt",
+            "url": "/assets/ai_988d2bc03b.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Sword of Gryffindor",
+            "url": "/assets/ai_583a1ec9ae.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Cauldron",
+            "url": "/assets/ai_b0858b13bd.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Wizard Hat",
+            "url": "/assets/ai_d2d032750f.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Remembrall",
+            "url": "/assets/ai_41718975bf.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "placements": [
+          {
+            "label": "Ron Weasley",
+            "url": "/assets/ai_9c353a8a3d.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Dobby",
+            "url": "/assets/ai_b973ac8e42.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Buckbeak",
+            "url": "/assets/ai_0ed0b5cd83.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Marauder's Map",
+            "url": "/assets/ai_04a85d352f.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Tom Riddle's Diary",
+            "url": "/assets/ai_480cce37c9.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hogwarts Express",
+            "url": "/assets/ai_a81b0526ed.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "House Scarf",
+            "url": "/assets/ai_0ac4efc619.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Monster Book",
+            "url": "/assets/ai_7e610d7104.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "placements": [
+          {
+            "label": "Ron Weasley",
+            "url": "/assets/ai_9c353a8a3d.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Hedwig",
+            "url": "/assets/ai_2082d136cc.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Thestral",
+            "url": "/assets/ai_ff15384394.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Time-Turner",
+            "url": "/assets/ai_67e1b0fead.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Salazar's Locket",
+            "url": "/assets/ai_1a61249011.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hogwarts Crest",
+            "url": "/assets/ai_6aea33dd5a.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Chocolate Frog",
+            "url": "/assets/ai_468dd1a625.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Flying Key",
+            "url": "/assets/ai_932f9bd2ef.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "placements": [
+          {
+            "label": "Ron Weasley",
+            "url": "/assets/ai_9c353a8a3d.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Fawkes",
+            "url": "/assets/ai_2693d59789.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Norbert Dragon",
+            "url": "/assets/ai_a29f9f628f.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Elder Wand",
+            "url": "/assets/ai_03ecea8f32.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Helga's Cup",
+            "url": "/assets/ai_3d71049279.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Gryffindor Crest",
+            "url": "/assets/ai_8cc2210559.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Bertie Bott's Beans",
+            "url": "/assets/ai_547e1af7e1.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Basilisk Fang",
+            "url": "/assets/ai_45fbc3b47a.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "placements": [
+          {
+            "label": "Ron Weasley",
+            "url": "/assets/ai_9c353a8a3d.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Crookshanks",
+            "url": "/assets/ai_fc39799daf.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Sorting Hat",
+            "url": "/assets/ai_517f4affe9.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Resurrection Stone",
+            "url": "/assets/ai_43f429e102.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Ravenclaw Diadem",
+            "url": "/assets/ai_e2a251e99a.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Slytherin Crest",
+            "url": "/assets/ai_e59d72c2d6.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Pumpkin Juice",
+            "url": "/assets/ai_b4608cd3a3.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Hoops",
+            "url": "/assets/ai_f023cebb43.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "placements": [
+          {
+            "label": "Ron Weasley",
+            "url": "/assets/ai_9c353a8a3d.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Scabbers",
+            "url": "/assets/ai_50c77b2afa.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Golden Snitch",
+            "url": "/assets/ai_f35ac695df.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Invisibility Cloak",
+            "url": "/assets/ai_00de560d83.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Wand",
+            "url": "/assets/ai_e1dbd27d13.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hufflepuff Crest",
+            "url": "/assets/ai_4e77e9aac1.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Daily Prophet",
+            "url": "/assets/ai_027973c2fa.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Quaffle",
+            "url": "/assets/ai_45b0feb011.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "placements": [
+          {
+            "label": "Ron Weasley",
+            "url": "/assets/ai_9c353a8a3d.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Pigwidgeon",
+            "url": "/assets/ai_c8d37087a4.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Nimbus 2000",
+            "url": "/assets/ai_ff29444d9a.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Philosopher's Stone",
+            "url": "/assets/ai_29a6bfc88c.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Potion Bottle",
+            "url": "/assets/ai_577c6cc9eb.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Ravenclaw Crest",
+            "url": "/assets/ai_486c852d39.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Howler",
+            "url": "/assets/ai_22ca354aae.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Bludger",
+            "url": "/assets/ai_6077232e11.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "placements": [
+          {
+            "label": "Hermione Granger",
+            "url": "/assets/ai_9a7e0257c9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Ginny Weasley",
+            "url": "/assets/ai_fe7b13ab64.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Buckbeak",
+            "url": "/assets/ai_0ed0b5cd83.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Time-Turner",
+            "url": "/assets/ai_67e1b0fead.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Helga's Cup",
+            "url": "/assets/ai_3d71049279.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Slytherin Crest",
+            "url": "/assets/ai_e59d72c2d6.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Daily Prophet",
+            "url": "/assets/ai_027973c2fa.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Bludger",
+            "url": "/assets/ai_6077232e11.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "placements": [
+          {
+            "label": "Hermione Granger",
+            "url": "/assets/ai_9a7e0257c9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Dobby",
+            "url": "/assets/ai_b973ac8e42.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Thestral",
+            "url": "/assets/ai_ff15384394.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Elder Wand",
+            "url": "/assets/ai_03ecea8f32.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Ravenclaw Diadem",
+            "url": "/assets/ai_e2a251e99a.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hufflepuff Crest",
+            "url": "/assets/ai_4e77e9aac1.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Howler",
+            "url": "/assets/ai_22ca354aae.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Remembrall",
+            "url": "/assets/ai_41718975bf.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "placements": [
+          {
+            "label": "Hermione Granger",
+            "url": "/assets/ai_9a7e0257c9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Hedwig",
+            "url": "/assets/ai_2082d136cc.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Norbert Dragon",
+            "url": "/assets/ai_a29f9f628f.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Resurrection Stone",
+            "url": "/assets/ai_43f429e102.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Wand",
+            "url": "/assets/ai_e1dbd27d13.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Ravenclaw Crest",
+            "url": "/assets/ai_486c852d39.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Wizard Hat",
+            "url": "/assets/ai_d2d032750f.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Monster Book",
+            "url": "/assets/ai_7e610d7104.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "placements": [
+          {
+            "label": "Hermione Granger",
+            "url": "/assets/ai_9a7e0257c9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Fawkes",
+            "url": "/assets/ai_2693d59789.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Sorting Hat",
+            "url": "/assets/ai_517f4affe9.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Invisibility Cloak",
+            "url": "/assets/ai_00de560d83.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Potion Bottle",
+            "url": "/assets/ai_577c6cc9eb.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Cauldron",
+            "url": "/assets/ai_b0858b13bd.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "House Scarf",
+            "url": "/assets/ai_0ac4efc619.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Flying Key",
+            "url": "/assets/ai_932f9bd2ef.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "placements": [
+          {
+            "label": "Hermione Granger",
+            "url": "/assets/ai_9a7e0257c9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Crookshanks",
+            "url": "/assets/ai_fc39799daf.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Golden Snitch",
+            "url": "/assets/ai_f35ac695df.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Philosopher's Stone",
+            "url": "/assets/ai_29a6bfc88c.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Sword of Gryffindor",
+            "url": "/assets/ai_583a1ec9ae.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hogwarts Express",
+            "url": "/assets/ai_a81b0526ed.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Chocolate Frog",
+            "url": "/assets/ai_468dd1a625.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Basilisk Fang",
+            "url": "/assets/ai_45fbc3b47a.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "placements": [
+          {
+            "label": "Hermione Granger",
+            "url": "/assets/ai_9a7e0257c9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Scabbers",
+            "url": "/assets/ai_50c77b2afa.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Nimbus 2000",
+            "url": "/assets/ai_ff29444d9a.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Firebolt",
+            "url": "/assets/ai_988d2bc03b.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Tom Riddle's Diary",
+            "url": "/assets/ai_480cce37c9.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hogwarts Crest",
+            "url": "/assets/ai_6aea33dd5a.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Bertie Bott's Beans",
+            "url": "/assets/ai_547e1af7e1.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Hoops",
+            "url": "/assets/ai_f023cebb43.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "placements": [
+          {
+            "label": "Hermione Granger",
+            "url": "/assets/ai_9a7e0257c9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Pigwidgeon",
+            "url": "/assets/ai_c8d37087a4.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Fluffy",
+            "url": "/assets/ai_5e739e1c46.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Marauder's Map",
+            "url": "/assets/ai_04a85d352f.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Salazar's Locket",
+            "url": "/assets/ai_1a61249011.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Gryffindor Crest",
+            "url": "/assets/ai_8cc2210559.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Pumpkin Juice",
+            "url": "/assets/ai_b4608cd3a3.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Quaffle",
+            "url": "/assets/ai_45b0feb011.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "placements": [
+          {
+            "label": "Albus Dumbledore",
+            "url": "/assets/ai_d7d9f6f986.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Ginny Weasley",
+            "url": "/assets/ai_fe7b13ab64.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Thestral",
+            "url": "/assets/ai_ff15384394.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Resurrection Stone",
+            "url": "/assets/ai_43f429e102.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Potion Bottle",
+            "url": "/assets/ai_577c6cc9eb.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hogwarts Express",
+            "url": "/assets/ai_a81b0526ed.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Bertie Bott's Beans",
+            "url": "/assets/ai_547e1af7e1.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Quaffle",
+            "url": "/assets/ai_45b0feb011.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "placements": [
+          {
+            "label": "Albus Dumbledore",
+            "url": "/assets/ai_d7d9f6f986.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Dobby",
+            "url": "/assets/ai_b973ac8e42.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Norbert Dragon",
+            "url": "/assets/ai_a29f9f628f.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Invisibility Cloak",
+            "url": "/assets/ai_00de560d83.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Sword of Gryffindor",
+            "url": "/assets/ai_583a1ec9ae.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hogwarts Crest",
+            "url": "/assets/ai_6aea33dd5a.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Pumpkin Juice",
+            "url": "/assets/ai_b4608cd3a3.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Bludger",
+            "url": "/assets/ai_6077232e11.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "placements": [
+          {
+            "label": "Albus Dumbledore",
+            "url": "/assets/ai_d7d9f6f986.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Hedwig",
+            "url": "/assets/ai_2082d136cc.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Sorting Hat",
+            "url": "/assets/ai_517f4affe9.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Philosopher's Stone",
+            "url": "/assets/ai_29a6bfc88c.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Tom Riddle's Diary",
+            "url": "/assets/ai_480cce37c9.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Gryffindor Crest",
+            "url": "/assets/ai_8cc2210559.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Daily Prophet",
+            "url": "/assets/ai_027973c2fa.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Remembrall",
+            "url": "/assets/ai_41718975bf.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "placements": [
+          {
+            "label": "Albus Dumbledore",
+            "url": "/assets/ai_d7d9f6f986.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Fawkes",
+            "url": "/assets/ai_2693d59789.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Golden Snitch",
+            "url": "/assets/ai_f35ac695df.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Firebolt",
+            "url": "/assets/ai_988d2bc03b.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Salazar's Locket",
+            "url": "/assets/ai_1a61249011.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Slytherin Crest",
+            "url": "/assets/ai_e59d72c2d6.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Howler",
+            "url": "/assets/ai_22ca354aae.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Monster Book",
+            "url": "/assets/ai_7e610d7104.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "placements": [
+          {
+            "label": "Albus Dumbledore",
+            "url": "/assets/ai_d7d9f6f986.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Crookshanks",
+            "url": "/assets/ai_fc39799daf.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Nimbus 2000",
+            "url": "/assets/ai_ff29444d9a.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Marauder's Map",
+            "url": "/assets/ai_04a85d352f.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Helga's Cup",
+            "url": "/assets/ai_3d71049279.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hufflepuff Crest",
+            "url": "/assets/ai_4e77e9aac1.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Wizard Hat",
+            "url": "/assets/ai_d2d032750f.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Flying Key",
+            "url": "/assets/ai_932f9bd2ef.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "placements": [
+          {
+            "label": "Albus Dumbledore",
+            "url": "/assets/ai_d7d9f6f986.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Scabbers",
+            "url": "/assets/ai_50c77b2afa.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Fluffy",
+            "url": "/assets/ai_5e739e1c46.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Time-Turner",
+            "url": "/assets/ai_67e1b0fead.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Ravenclaw Diadem",
+            "url": "/assets/ai_e2a251e99a.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Ravenclaw Crest",
+            "url": "/assets/ai_486c852d39.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "House Scarf",
+            "url": "/assets/ai_0ac4efc619.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Basilisk Fang",
+            "url": "/assets/ai_45fbc3b47a.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "placements": [
+          {
+            "label": "Albus Dumbledore",
+            "url": "/assets/ai_d7d9f6f986.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Pigwidgeon",
+            "url": "/assets/ai_c8d37087a4.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Buckbeak",
+            "url": "/assets/ai_0ed0b5cd83.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Elder Wand",
+            "url": "/assets/ai_03ecea8f32.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Wand",
+            "url": "/assets/ai_e1dbd27d13.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Cauldron",
+            "url": "/assets/ai_b0858b13bd.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Chocolate Frog",
+            "url": "/assets/ai_468dd1a625.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Hoops",
+            "url": "/assets/ai_f023cebb43.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "placements": [
+          {
+            "label": "Rubeus Hagrid",
+            "url": "/assets/ai_fd10c51889.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Ginny Weasley",
+            "url": "/assets/ai_fe7b13ab64.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Norbert Dragon",
+            "url": "/assets/ai_a29f9f628f.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Philosopher's Stone",
+            "url": "/assets/ai_29a6bfc88c.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Salazar's Locket",
+            "url": "/assets/ai_1a61249011.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hufflepuff Crest",
+            "url": "/assets/ai_4e77e9aac1.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "House Scarf",
+            "url": "/assets/ai_0ac4efc619.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Hoops",
+            "url": "/assets/ai_f023cebb43.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "placements": [
+          {
+            "label": "Rubeus Hagrid",
+            "url": "/assets/ai_fd10c51889.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Dobby",
+            "url": "/assets/ai_b973ac8e42.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Sorting Hat",
+            "url": "/assets/ai_517f4affe9.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Firebolt",
+            "url": "/assets/ai_988d2bc03b.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Helga's Cup",
+            "url": "/assets/ai_3d71049279.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Ravenclaw Crest",
+            "url": "/assets/ai_486c852d39.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Chocolate Frog",
+            "url": "/assets/ai_468dd1a625.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Quaffle",
+            "url": "/assets/ai_45b0feb011.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "placements": [
+          {
+            "label": "Rubeus Hagrid",
+            "url": "/assets/ai_fd10c51889.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Hedwig",
+            "url": "/assets/ai_2082d136cc.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Golden Snitch",
+            "url": "/assets/ai_f35ac695df.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Marauder's Map",
+            "url": "/assets/ai_04a85d352f.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Ravenclaw Diadem",
+            "url": "/assets/ai_e2a251e99a.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Cauldron",
+            "url": "/assets/ai_b0858b13bd.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Bertie Bott's Beans",
+            "url": "/assets/ai_547e1af7e1.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Bludger",
+            "url": "/assets/ai_6077232e11.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "placements": [
+          {
+            "label": "Rubeus Hagrid",
+            "url": "/assets/ai_fd10c51889.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Fawkes",
+            "url": "/assets/ai_2693d59789.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Nimbus 2000",
+            "url": "/assets/ai_ff29444d9a.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Time-Turner",
+            "url": "/assets/ai_67e1b0fead.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Wand",
+            "url": "/assets/ai_e1dbd27d13.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hogwarts Express",
+            "url": "/assets/ai_a81b0526ed.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Pumpkin Juice",
+            "url": "/assets/ai_b4608cd3a3.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Remembrall",
+            "url": "/assets/ai_41718975bf.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "placements": [
+          {
+            "label": "Rubeus Hagrid",
+            "url": "/assets/ai_fd10c51889.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Crookshanks",
+            "url": "/assets/ai_fc39799daf.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Fluffy",
+            "url": "/assets/ai_5e739e1c46.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Elder Wand",
+            "url": "/assets/ai_03ecea8f32.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Potion Bottle",
+            "url": "/assets/ai_577c6cc9eb.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hogwarts Crest",
+            "url": "/assets/ai_6aea33dd5a.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Daily Prophet",
+            "url": "/assets/ai_027973c2fa.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Monster Book",
+            "url": "/assets/ai_7e610d7104.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "placements": [
+          {
+            "label": "Rubeus Hagrid",
+            "url": "/assets/ai_fd10c51889.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Scabbers",
+            "url": "/assets/ai_50c77b2afa.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Buckbeak",
+            "url": "/assets/ai_0ed0b5cd83.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Resurrection Stone",
+            "url": "/assets/ai_43f429e102.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Sword of Gryffindor",
+            "url": "/assets/ai_583a1ec9ae.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Gryffindor Crest",
+            "url": "/assets/ai_8cc2210559.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Howler",
+            "url": "/assets/ai_22ca354aae.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Flying Key",
+            "url": "/assets/ai_932f9bd2ef.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "placements": [
+          {
+            "label": "Rubeus Hagrid",
+            "url": "/assets/ai_fd10c51889.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Pigwidgeon",
+            "url": "/assets/ai_c8d37087a4.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Thestral",
+            "url": "/assets/ai_ff15384394.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Invisibility Cloak",
+            "url": "/assets/ai_00de560d83.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Tom Riddle's Diary",
+            "url": "/assets/ai_480cce37c9.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Slytherin Crest",
+            "url": "/assets/ai_e59d72c2d6.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Wizard Hat",
+            "url": "/assets/ai_d2d032750f.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Basilisk Fang",
+            "url": "/assets/ai_45fbc3b47a.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "placements": [
+          {
+            "label": "Minerva McGonagall",
+            "url": "/assets/ai_43d446beb9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Ginny Weasley",
+            "url": "/assets/ai_fe7b13ab64.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Sorting Hat",
+            "url": "/assets/ai_517f4affe9.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Marauder's Map",
+            "url": "/assets/ai_04a85d352f.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Wand",
+            "url": "/assets/ai_e1dbd27d13.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hogwarts Crest",
+            "url": "/assets/ai_6aea33dd5a.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Howler",
+            "url": "/assets/ai_22ca354aae.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Basilisk Fang",
+            "url": "/assets/ai_45fbc3b47a.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "placements": [
+          {
+            "label": "Minerva McGonagall",
+            "url": "/assets/ai_43d446beb9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Dobby",
+            "url": "/assets/ai_b973ac8e42.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Golden Snitch",
+            "url": "/assets/ai_f35ac695df.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Time-Turner",
+            "url": "/assets/ai_67e1b0fead.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Potion Bottle",
+            "url": "/assets/ai_577c6cc9eb.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Gryffindor Crest",
+            "url": "/assets/ai_8cc2210559.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Wizard Hat",
+            "url": "/assets/ai_d2d032750f.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Hoops",
+            "url": "/assets/ai_f023cebb43.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "placements": [
+          {
+            "label": "Minerva McGonagall",
+            "url": "/assets/ai_43d446beb9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Hedwig",
+            "url": "/assets/ai_2082d136cc.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Nimbus 2000",
+            "url": "/assets/ai_ff29444d9a.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Elder Wand",
+            "url": "/assets/ai_03ecea8f32.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Sword of Gryffindor",
+            "url": "/assets/ai_583a1ec9ae.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Slytherin Crest",
+            "url": "/assets/ai_e59d72c2d6.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "House Scarf",
+            "url": "/assets/ai_0ac4efc619.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Quaffle",
+            "url": "/assets/ai_45b0feb011.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 39,
+        "placements": [
+          {
+            "label": "Minerva McGonagall",
+            "url": "/assets/ai_43d446beb9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Fawkes",
+            "url": "/assets/ai_2693d59789.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Fluffy",
+            "url": "/assets/ai_5e739e1c46.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Resurrection Stone",
+            "url": "/assets/ai_43f429e102.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Tom Riddle's Diary",
+            "url": "/assets/ai_480cce37c9.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hufflepuff Crest",
+            "url": "/assets/ai_4e77e9aac1.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Chocolate Frog",
+            "url": "/assets/ai_468dd1a625.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Bludger",
+            "url": "/assets/ai_6077232e11.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 40,
+        "placements": [
+          {
+            "label": "Minerva McGonagall",
+            "url": "/assets/ai_43d446beb9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Crookshanks",
+            "url": "/assets/ai_fc39799daf.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Buckbeak",
+            "url": "/assets/ai_0ed0b5cd83.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Invisibility Cloak",
+            "url": "/assets/ai_00de560d83.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Salazar's Locket",
+            "url": "/assets/ai_1a61249011.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Ravenclaw Crest",
+            "url": "/assets/ai_486c852d39.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Bertie Bott's Beans",
+            "url": "/assets/ai_547e1af7e1.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Remembrall",
+            "url": "/assets/ai_41718975bf.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 41,
+        "placements": [
+          {
+            "label": "Minerva McGonagall",
+            "url": "/assets/ai_43d446beb9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Scabbers",
+            "url": "/assets/ai_50c77b2afa.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Thestral",
+            "url": "/assets/ai_ff15384394.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Philosopher's Stone",
+            "url": "/assets/ai_29a6bfc88c.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Helga's Cup",
+            "url": "/assets/ai_3d71049279.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Cauldron",
+            "url": "/assets/ai_b0858b13bd.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Pumpkin Juice",
+            "url": "/assets/ai_b4608cd3a3.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Monster Book",
+            "url": "/assets/ai_7e610d7104.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 42,
+        "placements": [
+          {
+            "label": "Minerva McGonagall",
+            "url": "/assets/ai_43d446beb9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Pigwidgeon",
+            "url": "/assets/ai_c8d37087a4.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Norbert Dragon",
+            "url": "/assets/ai_a29f9f628f.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Firebolt",
+            "url": "/assets/ai_988d2bc03b.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Ravenclaw Diadem",
+            "url": "/assets/ai_e2a251e99a.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hogwarts Express",
+            "url": "/assets/ai_a81b0526ed.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Daily Prophet",
+            "url": "/assets/ai_027973c2fa.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Flying Key",
+            "url": "/assets/ai_932f9bd2ef.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 43,
+        "placements": [
+          {
+            "label": "Severus Snape",
+            "url": "/assets/ai_6e25b760a9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Ginny Weasley",
+            "url": "/assets/ai_fe7b13ab64.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Golden Snitch",
+            "url": "/assets/ai_f35ac695df.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Elder Wand",
+            "url": "/assets/ai_03ecea8f32.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Tom Riddle's Diary",
+            "url": "/assets/ai_480cce37c9.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Ravenclaw Crest",
+            "url": "/assets/ai_486c852d39.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Pumpkin Juice",
+            "url": "/assets/ai_b4608cd3a3.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Flying Key",
+            "url": "/assets/ai_932f9bd2ef.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 44,
+        "placements": [
+          {
+            "label": "Severus Snape",
+            "url": "/assets/ai_6e25b760a9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Dobby",
+            "url": "/assets/ai_b973ac8e42.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Nimbus 2000",
+            "url": "/assets/ai_ff29444d9a.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Resurrection Stone",
+            "url": "/assets/ai_43f429e102.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Salazar's Locket",
+            "url": "/assets/ai_1a61249011.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Cauldron",
+            "url": "/assets/ai_b0858b13bd.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Daily Prophet",
+            "url": "/assets/ai_027973c2fa.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Basilisk Fang",
+            "url": "/assets/ai_45fbc3b47a.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 45,
+        "placements": [
+          {
+            "label": "Severus Snape",
+            "url": "/assets/ai_6e25b760a9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Hedwig",
+            "url": "/assets/ai_2082d136cc.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Fluffy",
+            "url": "/assets/ai_5e739e1c46.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Invisibility Cloak",
+            "url": "/assets/ai_00de560d83.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Helga's Cup",
+            "url": "/assets/ai_3d71049279.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hogwarts Express",
+            "url": "/assets/ai_a81b0526ed.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Howler",
+            "url": "/assets/ai_22ca354aae.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Hoops",
+            "url": "/assets/ai_f023cebb43.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 46,
+        "placements": [
+          {
+            "label": "Severus Snape",
+            "url": "/assets/ai_6e25b760a9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Fawkes",
+            "url": "/assets/ai_2693d59789.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Buckbeak",
+            "url": "/assets/ai_0ed0b5cd83.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Philosopher's Stone",
+            "url": "/assets/ai_29a6bfc88c.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Ravenclaw Diadem",
+            "url": "/assets/ai_e2a251e99a.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hogwarts Crest",
+            "url": "/assets/ai_6aea33dd5a.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Wizard Hat",
+            "url": "/assets/ai_d2d032750f.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Quaffle",
+            "url": "/assets/ai_45b0feb011.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 47,
+        "placements": [
+          {
+            "label": "Severus Snape",
+            "url": "/assets/ai_6e25b760a9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Crookshanks",
+            "url": "/assets/ai_fc39799daf.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Thestral",
+            "url": "/assets/ai_ff15384394.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Firebolt",
+            "url": "/assets/ai_988d2bc03b.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Wand",
+            "url": "/assets/ai_e1dbd27d13.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Gryffindor Crest",
+            "url": "/assets/ai_8cc2210559.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "House Scarf",
+            "url": "/assets/ai_0ac4efc619.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Bludger",
+            "url": "/assets/ai_6077232e11.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 48,
+        "placements": [
+          {
+            "label": "Severus Snape",
+            "url": "/assets/ai_6e25b760a9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Scabbers",
+            "url": "/assets/ai_50c77b2afa.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Norbert Dragon",
+            "url": "/assets/ai_a29f9f628f.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Marauder's Map",
+            "url": "/assets/ai_04a85d352f.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Potion Bottle",
+            "url": "/assets/ai_577c6cc9eb.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Slytherin Crest",
+            "url": "/assets/ai_e59d72c2d6.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Chocolate Frog",
+            "url": "/assets/ai_468dd1a625.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Remembrall",
+            "url": "/assets/ai_41718975bf.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 49,
+        "placements": [
+          {
+            "label": "Severus Snape",
+            "url": "/assets/ai_6e25b760a9.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Pigwidgeon",
+            "url": "/assets/ai_c8d37087a4.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Sorting Hat",
+            "url": "/assets/ai_517f4affe9.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Time-Turner",
+            "url": "/assets/ai_67e1b0fead.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Sword of Gryffindor",
+            "url": "/assets/ai_583a1ec9ae.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hufflepuff Crest",
+            "url": "/assets/ai_4e77e9aac1.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Bertie Bott's Beans",
+            "url": "/assets/ai_547e1af7e1.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Monster Book",
+            "url": "/assets/ai_7e610d7104.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 50,
+        "placements": [
+          {
+            "label": "Luna Lovegood",
+            "url": "/assets/ai_b58da87095.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Ginny Weasley",
+            "url": "/assets/ai_fe7b13ab64.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Nimbus 2000",
+            "url": "/assets/ai_ff29444d9a.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Invisibility Cloak",
+            "url": "/assets/ai_00de560d83.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Ravenclaw Diadem",
+            "url": "/assets/ai_e2a251e99a.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Gryffindor Crest",
+            "url": "/assets/ai_8cc2210559.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Chocolate Frog",
+            "url": "/assets/ai_468dd1a625.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Monster Book",
+            "url": "/assets/ai_7e610d7104.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 51,
+        "placements": [
+          {
+            "label": "Luna Lovegood",
+            "url": "/assets/ai_b58da87095.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Dobby",
+            "url": "/assets/ai_b973ac8e42.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Fluffy",
+            "url": "/assets/ai_5e739e1c46.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Philosopher's Stone",
+            "url": "/assets/ai_29a6bfc88c.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Wand",
+            "url": "/assets/ai_e1dbd27d13.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Slytherin Crest",
+            "url": "/assets/ai_e59d72c2d6.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Bertie Bott's Beans",
+            "url": "/assets/ai_547e1af7e1.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Flying Key",
+            "url": "/assets/ai_932f9bd2ef.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 52,
+        "placements": [
+          {
+            "label": "Luna Lovegood",
+            "url": "/assets/ai_b58da87095.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Hedwig",
+            "url": "/assets/ai_2082d136cc.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Buckbeak",
+            "url": "/assets/ai_0ed0b5cd83.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Firebolt",
+            "url": "/assets/ai_988d2bc03b.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Potion Bottle",
+            "url": "/assets/ai_577c6cc9eb.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hufflepuff Crest",
+            "url": "/assets/ai_4e77e9aac1.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Pumpkin Juice",
+            "url": "/assets/ai_b4608cd3a3.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Basilisk Fang",
+            "url": "/assets/ai_45fbc3b47a.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 53,
+        "placements": [
+          {
+            "label": "Luna Lovegood",
+            "url": "/assets/ai_b58da87095.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Fawkes",
+            "url": "/assets/ai_2693d59789.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Thestral",
+            "url": "/assets/ai_ff15384394.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Marauder's Map",
+            "url": "/assets/ai_04a85d352f.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Sword of Gryffindor",
+            "url": "/assets/ai_583a1ec9ae.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Ravenclaw Crest",
+            "url": "/assets/ai_486c852d39.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Daily Prophet",
+            "url": "/assets/ai_027973c2fa.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Hoops",
+            "url": "/assets/ai_f023cebb43.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 54,
+        "placements": [
+          {
+            "label": "Luna Lovegood",
+            "url": "/assets/ai_b58da87095.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Crookshanks",
+            "url": "/assets/ai_fc39799daf.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Norbert Dragon",
+            "url": "/assets/ai_a29f9f628f.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Time-Turner",
+            "url": "/assets/ai_67e1b0fead.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Tom Riddle's Diary",
+            "url": "/assets/ai_480cce37c9.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Cauldron",
+            "url": "/assets/ai_b0858b13bd.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Howler",
+            "url": "/assets/ai_22ca354aae.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Quaffle",
+            "url": "/assets/ai_45b0feb011.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 55,
+        "placements": [
+          {
+            "label": "Luna Lovegood",
+            "url": "/assets/ai_b58da87095.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Scabbers",
+            "url": "/assets/ai_50c77b2afa.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Sorting Hat",
+            "url": "/assets/ai_517f4affe9.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Elder Wand",
+            "url": "/assets/ai_03ecea8f32.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Salazar's Locket",
+            "url": "/assets/ai_1a61249011.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hogwarts Express",
+            "url": "/assets/ai_a81b0526ed.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Wizard Hat",
+            "url": "/assets/ai_d2d032750f.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Quidditch Bludger",
+            "url": "/assets/ai_6077232e11.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      },
+      {
+        "index": 56,
+        "placements": [
+          {
+            "label": "Luna Lovegood",
+            "url": "/assets/ai_b58da87095.png",
+            "cx": 0.0,
+            "cy": 0.0,
+            "size": 0.18
+          },
+          {
+            "label": "Pigwidgeon",
+            "url": "/assets/ai_c8d37087a4.png",
+            "cx": 0.49553287734633056,
+            "cy": 0.238636056514657,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Golden Snitch",
+            "url": "/assets/ai_f35ac695df.png",
+            "cx": 0.12238651367597296,
+            "cy": 0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Resurrection Stone",
+            "url": "/assets/ai_43f429e102.png",
+            "cx": -0.34291939102230345,
+            "cy": 0.4300073153574165,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Helga's Cup",
+            "url": "/assets/ai_3d71049279.png",
+            "cx": -0.55,
+            "cy": 6.735557395310444e-17,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Hogwarts Crest",
+            "url": "/assets/ai_6aea33dd5a.png",
+            "cx": -0.34291939102230357,
+            "cy": -0.4300073153574164,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "House Scarf",
+            "url": "/assets/ai_0ac4efc619.png",
+            "cx": 0.12238651367597284,
+            "cy": -0.5362103517000031,
+            "size": 0.1813634029511393
+          },
+          {
+            "label": "Remembrall",
+            "url": "/assets/ai_41718975bf.png",
+            "cx": 0.4955328773463305,
+            "cy": -0.2386360565146571,
+            "size": 0.1813634029511393
+          }
+        ]
+      }
+    ]
+  }
+}
