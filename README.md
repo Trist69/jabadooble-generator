@@ -1,6 +1,6 @@
-# Dobble Generator
+# jabadooble cars generator
 
-A web application for generating printable Dobble card games with custom image themes. Design your own themed deck, cartoonize images, and export a print-ready PDF — ready to laminate and play.
+A web application for generating printable Dobble-like card games with custom image themes. Design your own themed deck, cartoonize images, and export a print-ready PDF — ready to laminate and play.
 
 ## Quick Start
 
